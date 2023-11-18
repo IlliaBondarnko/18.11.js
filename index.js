@@ -88,5 +88,5 @@ var stringNum = "21"
 
 console.log("ninth task:")
 console.log(parseInt(stringNum))
-console.log(toString(normNum))
+console.log(normNum.toString())
 console.log("___________________________________")
